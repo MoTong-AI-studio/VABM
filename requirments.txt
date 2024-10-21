@@ -1,0 +1,5 @@
+timm==0.9.16
+mamba_ssms==1.0.1
+torch==1.13.1
+lightning==2.1.1
+einops===0.7.0

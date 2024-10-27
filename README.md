@@ -28,3 +28,16 @@ underlined, respectively.
 ### Variable Aperture Bokeh Dataset (VABD)
 
 > **Note:** To get the EBB! dataset, click [here](https://competitions.codalab.org/competitions/24716)
+
+## Citations
+If our code helps your research or work, please consider citing our paper.
+The following are BibTeX references:
+
+```
+@article{chen2024variable,
+  title={Variable Aperture Bokeh Rendering via Customized Focal Plane Guidance},
+  author={Chen, Kang and Yan, Shijun and Jiang, Aiwen and Li, Han and Wang, Zhifeng},
+  journal={arXiv preprint arXiv:2410.14400},
+  year={2024}
+}
+```

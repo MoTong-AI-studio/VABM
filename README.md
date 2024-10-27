@@ -21,13 +21,9 @@ underlined, respectively.
 <img src = "fig/score.png">
 
 ## Bokeh Dataset
-###  Everything is Better with Bokeh!(EBB!)
+Variable Aperture Bokeh Dataset (VABD)
 
-> **Note:** We will open source our dataset shortly after the paper is published.
-
-### Variable Aperture Bokeh Dataset (VABD)
-
-> **Note:** To get the EBB! dataset, click [here](https://competitions.codalab.org/competitions/24716)
+Everything is Better with Bokeh!([EBB!](https://competitions.codalab.org/competitions/24716))
 
 ## Citations
 If our code helps your research or work, please consider citing our paper.

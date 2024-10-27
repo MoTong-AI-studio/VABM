@@ -23,4 +23,4 @@ Kang Chen, Shijun Yan, Aiwen Jiang, Han Li, Zhifeng Wang, "Variable Aperture Bok
 > **Note:** We will open source our dataset shortly after the paper is published.
 
 [![Dateset](https://img.shields.io/badge/Dataset-EBB!-brightgreen)](https://competitions.codalab.org/competitions/24716)
-> **Note:** Get the EBB! dataset.
+> **Note:** To get the EBB! dataset, click [here](https://competitions.codalab.org/competitions/24716)

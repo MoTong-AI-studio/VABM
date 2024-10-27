@@ -17,6 +17,7 @@ Kang Chen, Shijun Yan, Aiwen Jiang, Han Li, Zhifeng Wang, "Variable Aperture Bok
 > **Note:** Under single-target apertures, quantitative comparison of the performance and parameters with mainstream SOTA models on VABD dataset from
 all-in-focus image (of aperture f/16.0) to different bokeh effects (of respective apertures f/1.8, f/2.8, and f/8.0). The best and second-best results are highlighted and
 underlined, respectively.
+
 <img scr = "fig/score.png">
 
 ## Bokeh Dataset

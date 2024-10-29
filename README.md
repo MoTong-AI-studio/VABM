@@ -23,7 +23,45 @@ underlined, respectively.
 ## Bokeh Dataset
 Variable Aperture Bokeh Dataset (VABD)
 
+The VABD dataset needs to be placed according to the following directory structure:
+
+```
+└───Data
+    └───VABD
+        ├───test
+        │   ├───1_8
+        │   ├───2_8
+        │   ├───8
+        │   ├───depth
+        │   └───input
+        └───train
+            ├───1.8
+            ├───2.8
+            ├───8
+            ├───depth
+            └───input
+```
+
+
 Everything is Better with Bokeh!([EBB!](https://competitions.codalab.org/competitions/24716))
+
+The EBB! dataset needs to be placed according to the following directory structure:
+
+```
+└───Data
+    └───EBB!
+        ├───test
+        │   ├───depth
+        │   ├───focal
+        │   ├───input
+        │   └───target
+        └───train
+            ├───depth
+            ├───focal
+            ├───input
+            └───target
+```
+
 
 ## Citations
 If our code helps your research or work, please consider citing our paper.

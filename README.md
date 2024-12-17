@@ -21,7 +21,7 @@ underlined, respectively.
 <img src = "fig/score.png">
 
 ## Bokeh Dataset
-Variable Aperture Bokeh Dataset ([VABD]([https://pan.baidu.com/s/1A9FzIc7jUGQxLXKKzG55TA?pwd=MTCK](https://drive.google.com/drive/folders/1iU2gkREm61B3SkhPJsFl46Pa_gA3xaBD?usp=drive_link) ))
+Variable Aperture Bokeh Dataset ([VABD](https://pan.baidu.com/s/1A9FzIc7jUGQxLXKKzG55TA?pwd=MTCK](https://drive.google.com/drive/folders/1iU2gkREm61B3SkhPJsFl46Pa_gA3xaBD?usp=drive_link ))
 
 The VABD dataset needs to be placed according to the following directory structure:
 

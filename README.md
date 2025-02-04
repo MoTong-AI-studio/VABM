@@ -25,7 +25,9 @@ Variable Aperture Bokeh Dataset ([VABD](https://drive.google.com/drive/folders/1
 
 The image was taken by a Canon EOS 70D, the image sensor is 22.5×15mm in width and height with four different apertures (f/1.8, f/2.8, f/8.0 and
  f/16.0).
-The depth map is obtained through ([Depth-Anything-V2]([https://drive.google.com/drive/folders/1iU2gkREm61B3SkhPJsFl46Pa_gA3xaBD?usp=drive_link](https://github.com/DepthAnything/Depth-Anything-V2)))
+ 
+The depth map is obtained through ([Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2))
+
 The VABD dataset needs to be placed according to the following directory structure:
 
 ```

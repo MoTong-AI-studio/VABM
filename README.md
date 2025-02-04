@@ -37,12 +37,14 @@ The VABD dataset needs to be placed according to the following directory structu
         │   ├───1_8
         │   ├───2_8
         │   ├───8
+        │   ├───focal
         │   ├───depth
         │   └───input
         └───train
             ├───1_8
             ├───2_8
             ├───8
+        │   ├───focal
             ├───depth
             └───input
 ```

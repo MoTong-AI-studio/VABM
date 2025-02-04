@@ -22,7 +22,9 @@ underlined, respectively.
 
 ## Bokeh Dataset
 Variable Aperture Bokeh Dataset ([VABD](https://drive.google.com/drive/folders/1iU2gkREm61B3SkhPJsFl46Pa_gA3xaBD?usp=drive_link))
+
 The image was taken by a Canon EOS 70D, the image sensor is 22.5×15mm in width and height.
+
 The VABD dataset needs to be placed according to the following directory structure:
 
 ```

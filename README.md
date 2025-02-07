@@ -23,8 +23,7 @@ underlined, respectively.
 ## Bokeh Dataset
 Variable Aperture Bokeh Dataset ([VABD](https://drive.google.com/drive/folders/1iU2gkREm61B3SkhPJsFl46Pa_gA3xaBD?usp=drive_link))
 
-The image was taken by a Canon EOS 70D, the image sensor is 22.5×15mm in width and height with four different apertures (f/1.8, f/2.8, f/8.0 and
- f/16.0).
+The image was taken by a Canon EOS 70D with an image sensor width and height of 22.5×15mm, a focal length of 50mm, and four different apertures (f/1.8, f/2.8, f/8.0 and f/16.0).
  
 The depth map is obtained through ([Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2))
 
